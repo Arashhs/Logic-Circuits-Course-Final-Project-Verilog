@@ -1,0 +1,5 @@
+vhdl work "RAM.vhd"
+verilog work "ram_usage.v"
+verilog work "E1.v"
+verilog work "Elevator.v"
+verilog work "testBench.v"

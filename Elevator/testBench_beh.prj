@@ -1,0 +1,6 @@
+vhdl work "RAM.vhd"
+verilog work "ram_usage.v"
+verilog work "E1.v"
+verilog work "Elevator.v"
+verilog work "testBench.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "I:/Logic/Final Project/Final Submission/Elevator/testBench.xst" -ofn "I:/Logic/Final Project/Final Submission/Elevator/testBench.syr" 

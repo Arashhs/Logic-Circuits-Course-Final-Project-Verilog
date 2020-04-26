@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "I:/Logic/Final Project/Final Submission/Elevator/testBench_isim_beh.exe" -prj "I:/Logic/Final Project/Final Submission/Elevator/testBench_beh.prj" "work.testBench" "work.glbl" 
