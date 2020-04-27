@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Verilog linguist-vendored=false
+*.html linguist-detectable=false
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+*.C linguist-detectable=false
